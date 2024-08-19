@@ -1,0 +1,57 @@
+@media (max-width: 1199.98px) {
+  .sec-1 .title {
+    font-size: 36px;
+  }
+  .sec-1 .content {
+    font-size: 16px;
+  }
+  .sec-2 .image-wrap {
+    margin-bottom: -300px;
+    z-index: 2;
+  }
+  .sec-2 .title-2 {
+    margin-top: 330px;
+  }
+  .sec-2 .shape-bg {
+    height: 800px;
+  }
+  .sec-6 .plane-button {
+    /* margin-top: 20px; */
+  }
+  .sec-5 .feature-card {
+    height: 355px;
+  }
+  .sec-2 .bg-01 {
+    left: 0px;
+    top: 0px;
+    width: 185px;
+    height: auto;
+  }
+  .sec-2 .bg-02 {
+    right: 0px;
+    top: 0px;
+    width: 175px;
+    height: auto;
+  }
+  .sec-2 .bg-03 {
+    position: absolute;
+    right: 0px;
+    bottom: 60px;
+    width: 285px;
+    height: auto;
+  }
+  .sec-7 .bg-07 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 150px;
+    height: auto;
+  }
+  .sec-7 .bg-08 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 150px;
+    height: auto;
+  }
+}

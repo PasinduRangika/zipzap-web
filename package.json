@@ -1,0 +1,19 @@
+{
+  "name": "zipzap-web",
+  "version": "1.0.0",
+  "description": "local temp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "clean-css": "^5.3.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}

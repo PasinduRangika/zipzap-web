@@ -1,0 +1,40 @@
+@media (max-width: 575.98px) {
+  .navbar.dev {
+    background: #462e2e;
+  }
+  .section-1 .animator-border {
+    width: 100%;
+  }
+  .section-1 .animator-border .left .bullet {
+    width: 15px;
+    height: 15px;
+  }
+  .section-1 .animator-border .wrap {
+    width: calc(100% - 4px);
+  }
+  .section-1 .animator-border .left .txt {
+    font-size: 14px;
+  }
+  .section-1 .animator-border .btn-explore {
+    font-size: 14px;
+    width: 90px;
+  }
+  .section-2 .card {
+    width: 400px;
+    height: 300px;
+  }
+
+  .CBC-section-8 .t1 {
+    font-size: 32px;
+    line-height: 32px;
+  }
+  .CBC-section-8 .t2 {
+    font-size: 14px;
+  }
+  .CBC-section-8 .button-warp {
+    padding: 0px 10px 0px 0px;
+  }
+  .CBC-section-8 .button {
+    font-size: 15px;
+  }
+}
